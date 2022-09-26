@@ -1,1 +1,4 @@
 nataly vedia cambio
+1)crear repositorio
+2)clonar respositorio al main
+3) 
